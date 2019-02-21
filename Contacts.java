@@ -1,4 +1,4 @@
-package com.wai;
+
 
 public class Contacts {
 	private String name;
